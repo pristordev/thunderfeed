@@ -1,7 +1,7 @@
 # 🔥 ThunderFeed 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
+[![Python 3.13+](https://img.shields.io/badge/Python-3.13%2B-blue)](https://www.python.org/)
 [![War Thunder](https://img.shields.io/badge/Game-War_Thunder-red)](https://warthunder.com/)
 
 A Python bot that automates War Thunder gameplay and bridges in-game data to Discord via OCR.  
